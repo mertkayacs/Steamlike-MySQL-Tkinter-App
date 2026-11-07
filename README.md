@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">A Steam-style game store in Tkinter. Backed by MySQL.</h1>
+<h1 align="center">A Steam-style game store in Tkinter.<br>Backed by MySQL.</h1>
 
 <p align="center">
   Database course project from 2020: a desktop game store with user, developer and admin pages.<br>
