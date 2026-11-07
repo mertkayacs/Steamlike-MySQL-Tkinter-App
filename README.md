@@ -50,10 +50,6 @@ Each role in the app maps to a page and a set of tables.
 
 ## A quick tour
 
-<p align="center">
-  <img src="docs/assets/readme/tour.gif" alt="Steamlike tour moving through the My Games page, the developer page, the game adding form and the SQL console" width="900">
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
